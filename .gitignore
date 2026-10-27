@@ -1,1 +1,4 @@
 /genome_files/
+.DS_Store
+__pycache__/
+*.py[cod]
